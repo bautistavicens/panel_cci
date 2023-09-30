@@ -1,8 +1,0 @@
-#ifndef _FUNCIONES
-#define _FUNCIONES
-#include <define.h>
-
-extern char* leer_archivo(int in_panel_id);
-extern void escribir_archivo(int in_panel_id, char in_mensaje[LONGITUD_MENSAJE_PANEL]);
-
-#endif
