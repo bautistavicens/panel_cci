@@ -8,7 +8,7 @@ Ejercicio ejemplo de manejo de semaforos en C.
 
 ## Instrucciones
 
-1. Abrir terminar.
+1. Abrir terminal.
 2. Ingresar a la carpeta raíz del proyecto (panel_cci).
 3. Ejecutar make (escribír make en la terminarl y presionar enter)
 4. Ejecutar cci (escribír ./cci y presionar enter).
