@@ -1,4 +1,4 @@
-# up_panel_cci
+# panel_cci
 
 Ejercicio ejemplo de manejo de semaforos en C.
 
