@@ -6,6 +6,15 @@ Ejercicio ejemplo de manejo de semaforos en C.
 
 ### Compilador: gcc-4.1
 
+## Instrucciones
+
+1. Abrir terminar.
+2. Ingresar a la carpeta raíz del proyecto (panel_cci).
+3. Ejecutar make (escribír make en la terminarl y presionar enter)
+4. Ejecutar cci (escribír ./cci y presionar enter).
+5. Ejecutar panel (escribír ./panel <id_panel> y presionar enter).
+   
+
 ## Centro de Control Inteligente
 
 Una autopista posee 3 Paneles de Mensajería Variable (PMV) para informar a sususuarios, y 1 Centro de Control Inteligente para controlar los PMV (carteles quemodifican el texto que muestran remotamente).
